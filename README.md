@@ -1,6 +1,7 @@
 # JavaScript Canvas to Blob
 
 ## Description
+原生的canvas.toBlob方法的浏览器兼容性有限，此JS 封装了原方法，扩展了浏览器兼容性
 Canvas to Blob is a polyfill for the standard JavaScript
 [canvas.toBlob](http://www.w3.org/TR/html5/scripting-1.html#dom-canvas-toblob)
 method.
